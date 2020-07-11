@@ -1,1 +1,7 @@
 git pull = git fetch + git merge
+
+git
+Parallel Develpoment:
+	rebasing is way of combining the work betweeen diff brnch
+	It can be used to make a linear sequence of commits.
+
